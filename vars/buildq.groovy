@@ -142,3 +142,4 @@ def release_build_server(id) {
 
 //End of Functions for build queue
 
+return this
